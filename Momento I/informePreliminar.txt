@@ -1,0 +1,32 @@
+Equipo # 33
+Integrante: Eder Luis Polo Humánez 
+Capítulo Escogido: El 5° de la 9° Temporada, “The Cartridge Family”.
+
+Descripción del Juego:
+Este juego de disparos está inspirado en el episodio "The Cartridge Family" de Los Simpson, 
+donde el jugador toma el papel de Homero para proteger su hogar de amenazas y mantener a 
+salvo a su familia. Cada nivel representa una situación de defensa creciente, en la que 
+Homero debe enfrentar varios obstáculos con habilidades de disparo y defensa.
+
+Niveles del Juego:
+Nivel 1 - Defensa del Hogar:
+Homero comienza sin armas, enfrentándose a una serie de personajes que representan 
+amenazas menores. Para avanzar, debe recolectar objetos en el camino, como piedras y 
+palos, que lanza con un movimiento parabólico para frenar a los intrusos. El jugador deberá 
+resistir 2 minutos mientras el número de enemigos aumenta gradualmente.
+
+Nivel 2 - Defensa con Arma de Fuego:
+Tras obtener un arma, Homero debe defender su casa de una horda que se acerca. En este 
+nivel, el jugador dispone de proyectiles que puede disparar en trayectoria rectilínea. El 
+objetivo es evitar que los enemigos alcancen la entrada mientras cuida su barra de 
+municiones, la cual se recarga lentamente.
+
+Nivel 3 - Rescate de Marge:
+En el nivel final, Marge ha sido capturada por un enemigo tipo “jefeFinal”. Homero deberá 
+enfrentarse al jefe usando una combinación de armas: pistolas, cuchillos y piedras que 
+recoge en el camino. Además, puede activar un escudo temporal para bloquear ataques 
+mientras intenta debilitar al enemigo y rescatar a Marge.
+
+Este diseño me permite desarrollar habilidades de precisión y gestión de recursos, utilizando 
+mecánicas de disparo y estrategias defensivas que capturan la temática y el humor del 
+episodio.
